@@ -6,3 +6,8 @@ Khaled Lounnas, Mourad Abbas, Hocine Teffahi and Mohamed Lichouri. A Language Id
 
 # ArPod Dataset Paper
 Khaled Lounnas, Mourad Abbas, Mohamed Lichouri. Building a Speech Corpus based on Arabic Podcasts for Language and Dialect Identification, Proceedings of the 3rd International Conference on Natural Language and Speech Processing 2019. https://www.aclweb.org/anthology/W19-7408.pdf
+
+# Request a dataset
+If you want to use one of these dataset for research purpose, please contact Dr. Mourad Abbas at: m_abbas04@yahoo.fr
+
+
